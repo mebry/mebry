@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Goncharov Vadim</h1>
+<h1 align="center">Hi 👋, I'm Vadim Goncharov</h1>
 <h3 align="center">A passionate full stack developer from Belarus</h3>
 <img align="right" width="400" border-radius="20px" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif" alt="photo" />
 
