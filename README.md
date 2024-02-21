@@ -2,10 +2,7 @@
 <h3 align="center">A passionate full stack developer from Belarus</h3>
 <img align="right" width="400" border-radius="20px" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif" alt="photo" />
 
-
-- 🔭 I’m currently working on **Bookstore**
-
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **.Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mebry](https://github.com/mebry)
 
